@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background: url(Avengers1.webp);
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;
+}         
+.heading{
+    width: 1200px;
+    height: 80px;
+    margin-left: 380px;
+    margin-top: 175px;
+    background:rgb(7, 7, 51);
+}
+.heading h1{
+
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+.first{
+    text-align: center;
+}
+.firstimage{
+   text-align: center;
+}
+.second{
+    text-align: center;
+    color: black;
+}
+.secondimage{
+    text-align: center;
+}
+.image{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px 5px 0px 0px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
